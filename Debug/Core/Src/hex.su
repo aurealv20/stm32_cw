@@ -1,0 +1,5 @@
+../Core/Src/hex.c:18:16:HexCharToByte	16	static
+../Core/Src/hex.c:30:5:getByte	24	static
+../Core/Src/hex.c:42:5:datacopy	32	static
+../Core/Src/hex.c:54:5:crcCheck	56	static
+../Core/Src/hex.c:78:5:getFromHex	64	static
